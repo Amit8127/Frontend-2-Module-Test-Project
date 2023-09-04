@@ -113,3 +113,12 @@
     border: 2px solid #360369;;
     background: #360369;
 }
+
+h2 {
+    color: white;
+    background-color: rgb(247, 65, 65);
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px gray;
+}
+
